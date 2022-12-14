@@ -1,0 +1,17 @@
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.Infrastructure.deps.json
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.Infrastructure.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.Infrastructure.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.Domain.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.Domain.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.AssemblyInfo.cs
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.csproj.CopyComplete
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\refint\InvoiceSystem.Infrastructure.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\InvoiceSystem.Infrastructure.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Infrastructure\obj\Debug\net7.0\ref\InvoiceSystem.Infrastructure.dll
