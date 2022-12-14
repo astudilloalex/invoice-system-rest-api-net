@@ -1,4 +1,6 @@
-﻿namespace InvoiceSystem.CommonCRUD.Interfaces;
+﻿using System.Linq.Expressions;
+
+namespace InvoiceSystem.CommonCRUD.Interfaces;
 
 /// <summary>
 /// Interface for generic CRUD operations on a repository for a specific type.
@@ -18,6 +20,13 @@ public interface ICrudRepository<T, ID> where T : class
     /// </summary>
     /// <returns>The number of entities.</returns>
     public Task<long> CountAsync();
+
+    /// <summary>
+    /// Count entities by predicate.
+    /// </summary>
+    /// <param name="predicate">The predicate to count.</param>
+    /// <returns>The number of entities.</returns>
+    public Task<long> CountAsync(Expression<Func<T, bool>> predicate);
 
     /// <summary>
     /// Deletes a given entity.

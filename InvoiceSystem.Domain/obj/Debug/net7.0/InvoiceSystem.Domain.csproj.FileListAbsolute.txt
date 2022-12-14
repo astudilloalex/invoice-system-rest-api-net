@@ -1,0 +1,15 @@
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net7.0\InvoiceSystem.Domain.deps.json
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net7.0\InvoiceSystem.Domain.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net7.0\InvoiceSystem.Domain.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.AssemblyInfo.cs
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.csproj.CopyComplete
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\refint\InvoiceSystem.Domain.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\InvoiceSystem.Domain.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net7.0\ref\InvoiceSystem.Domain.dll

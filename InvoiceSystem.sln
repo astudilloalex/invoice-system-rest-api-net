@@ -3,7 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.Domain", "InvoiceSystem.Domain\InvoiceSystem.Domain.csproj", "{0E51933A-663E-4382-A301-1D0CA4ACFD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.CommonCRUD", "InvoiceSystem.CommonCRUD\InvoiceSystem.CommonCRUD.csproj", "{D93442B0-1FBB-4F66-ABB7-D174510A8367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.Application", "InvoiceSystem.Application\InvoiceSystem.Application.csproj", "{1D7562A7-109F-4699-A798-F778824D190E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.Infrastructure", "InvoiceSystem.Infrastructure\InvoiceSystem.Infrastructure.csproj", "{19647EEC-6786-4C1F-B733-D7545F09118C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.BCrypt", "InvoiceSystem.BCrypt\InvoiceSystem.BCrypt.csproj", "{3E66138B-7356-45C9-A3DE-5B867F3209D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem.API", "InvoiceSystem.API\InvoiceSystem.API.csproj", "{23D46338-1729-4A29-A090-25BB97C5AB38}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E51933A-663E-4382-A301-1D0CA4ACFD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E51933A-663E-4382-A301-1D0CA4ACFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E51933A-663E-4382-A301-1D0CA4ACFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E51933A-663E-4382-A301-1D0CA4ACFD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93442B0-1FBB-4F66-ABB7-D174510A8367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93442B0-1FBB-4F66-ABB7-D174510A8367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93442B0-1FBB-4F66-ABB7-D174510A8367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93442B0-1FBB-4F66-ABB7-D174510A8367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7562A7-109F-4699-A798-F778824D190E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7562A7-109F-4699-A798-F778824D190E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7562A7-109F-4699-A798-F778824D190E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7562A7-109F-4699-A798-F778824D190E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19647EEC-6786-4C1F-B733-D7545F09118C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19647EEC-6786-4C1F-B733-D7545F09118C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19647EEC-6786-4C1F-B733-D7545F09118C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19647EEC-6786-4C1F-B733-D7545F09118C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E66138B-7356-45C9-A3DE-5B867F3209D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E66138B-7356-45C9-A3DE-5B867F3209D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E66138B-7356-45C9-A3DE-5B867F3209D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E66138B-7356-45C9-A3DE-5B867F3209D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D46338-1729-4A29-A090-25BB97C5AB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D46338-1729-4A29-A090-25BB97C5AB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D46338-1729-4A29-A090-25BB97C5AB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D46338-1729-4A29-A090-25BB97C5AB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -1,0 +1,12 @@
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.deps.json
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\bin\Debug\net7.0\InvoiceSystem.CommonCRUD.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.AssemblyInfo.cs
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\refint\InvoiceSystem.CommonCRUD.dll
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\InvoiceSystem.CommonCRUD.pdb
+D:\Users\Alex\Documents\NetProjects\InvoiceSystem\InvoiceSystem.CommonCRUD\obj\Debug\net7.0\ref\InvoiceSystem.CommonCRUD.dll

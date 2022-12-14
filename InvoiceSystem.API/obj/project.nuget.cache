@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "y0d5h3ONB/lE/H7rshi6RaFVCQtFmC3iJToAY2rpBfmucO4/Ry9y7Dh+C2IjR20GdQsrMKDF929T5lWb1hWglQ==",
+  "dgSpecHash": "bPfcna1L7H0Ce1qtldqr4c6CVnOPdSwONjuR4/OlXufNo2reti7HeWwUcQprvlfI8J8EqvudUW8uuZis8uRH6w==",
   "success": true,
   "projectFilePath": "D:\\Users\\Alex\\Documents\\NetProjects\\InvoiceSystem\\InvoiceSystem.API\\InvoiceSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex-\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\alex-\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\alex-\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\alex-\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512",
     "C:\\Users\\alex-\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\alex-\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\alex-\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
